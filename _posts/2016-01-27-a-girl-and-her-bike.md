@@ -16,7 +16,7 @@ keywords:
   - ride
   - beginner
 description: "A little girl's motovlog of thoughts, reviews, experiences and of course, random stories.  Warning: Not everything will make sense."
-datePublished: '2016-01-27T23:03:41.347Z'
+datePublished: '2016-01-27T23:03:41.373Z'
 dateModified: '2016-01-27T23:03:17.776Z'
 author:
   - avatar: {}
