@@ -16,7 +16,7 @@ keywords:
   - how-to
   - brz
 description: 'General motorcycle maintenance, riding, and gear tips. Video blogs are aimed at discussing my current thoughts, plans for trips, projects, and the occasional commentary on current events. If you have any questions or special requests, leave a comment or shoot me a message.'
-datePublished: '2016-01-27T23:47:55.026Z'
+datePublished: '2016-01-27T23:47:55.020Z'
 dateModified: '2016-01-27T23:47:52.342Z'
 author:
   - name: MotoErgoSum
