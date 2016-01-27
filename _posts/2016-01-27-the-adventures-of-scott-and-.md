@@ -14,7 +14,7 @@ description: "Welcome to the Adventures of Scott and... - I am a motovlogger, a 
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/user/ScottandKerryann'
 title: The Adventures of Scott and ...
-datePublished: '2016-01-27T21:20:26.600Z'
+datePublished: '2016-01-27T21:20:26.656Z'
 dateModified: '2016-01-27T21:20:05.005Z'
 sourcePath: _posts/2016-01-27-the-adventures-of-scott-and-.md
 published: true
