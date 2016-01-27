@@ -24,10 +24,10 @@ author:
           - 160
 related: []
 publisher:
-  url: 'http://youtube.com'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'http://youtube.com'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - teespring
   - bakerx
@@ -52,15 +52,17 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/user/bakerXderek?feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/user/bakerXderek'
 title: bakerXderek
-datePublished: '2016-01-27T21:11:16.786Z'
-dateModified: '2016-01-27T21:09:29.400Z'
+datePublished: '2016-01-27T21:20:19.709Z'
+dateModified: '2016-01-27T21:19:55.163Z'
 sourcePath: _posts/2016-01-27-bakerxderek.md
 published: true
 inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+inNav: true
+starred: true
+authors: []
+url: bakerxderek/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
