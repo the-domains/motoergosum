@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.5
-  lightness: 0.3853047
+  rhythmicContrast: 1
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#4B4B4B'
     - '#A3A3A3'
     - '#6E6E6E'
-  rhythmicContrast: 1
+  lightness: 0.3853047
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: MotoErgoSum
 favicon: null
+name: MotoErgoSum
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.10089
+typography_spectrum: 0.5537634
 layout_spectrum: 1
