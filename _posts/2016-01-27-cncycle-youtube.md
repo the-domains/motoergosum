@@ -3,7 +3,7 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - cncycle
   - motovlog
@@ -16,8 +16,8 @@ keywords:
   - stickers
   - riding
 description: 'Share your videos with friends, family, and the world'
-datePublished: '2016-01-27T21:11:16.922Z'
-dateModified: '2016-01-27T21:10:38.930Z'
+datePublished: '2016-01-27T21:20:12.383Z'
+dateModified: '2016-01-27T21:20:08.965Z'
 author:
   - avatar: {}
 related: []
