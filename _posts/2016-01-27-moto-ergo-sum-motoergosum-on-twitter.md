@@ -7,8 +7,8 @@ inLanguage: ca
 starred: false
 keywords: []
 description: Moto Ergo Sum (@motoergosum) on Twitter
-datePublished: '2016-01-27T21:53:17.858Z'
-dateModified: '2016-01-27T21:53:12.409Z'
+datePublished: '2016-01-27T23:07:01.258Z'
+dateModified: '2016-01-27T23:06:58.137Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/606665586567835648/5rCUIPsS_400x400.jpg'
@@ -36,6 +36,6 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da100801-cb72-453d-88d8-af0fad8ab932.jpg)
-
 > Moto Ergo Sum (@motoergosum) on Twitter
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce70885c-cf49-418a-941a-9cc8416f61f4.jpg)
