@@ -51,7 +51,7 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/user/suburbandelinquent'
 title: SUB. DELINQUENT
-datePublished: '2016-01-27T21:20:23.886Z'
+datePublished: '2016-01-27T21:20:23.928Z'
 dateModified: '2016-01-27T21:20:01.494Z'
 sourcePath: _posts/2016-01-27-sub-delinquent.md
 published: true
