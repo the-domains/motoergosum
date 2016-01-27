@@ -3,7 +3,7 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - www
   - https
@@ -16,8 +16,8 @@ keywords:
   - how-to
   - brz
 description: 'General motorcycle maintenance, riding, and gear tips. Video blogs are aimed at discussing my current thoughts, plans for trips, projects, and the occasional commentary on current events. If you have any questions or special requests, leave a comment or shoot me a message.'
-datePublished: '2016-01-27T21:21:38.685Z'
-dateModified: '2016-01-27T21:21:25.983Z'
+datePublished: '2016-01-27T21:22:07.227Z'
+dateModified: '2016-01-27T21:22:02.176Z'
 author:
   - name: MotoErgoSum
     url: 'http://www.youtube.com/user/kuhlka'
