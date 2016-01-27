@@ -53,7 +53,7 @@ app_links:
   - url: 'https://www.youtube.com/user/bakerXderek?feature=applinks'
     type: web
 title: bakerXderek
-datePublished: '2016-01-27T21:20:19.719Z'
+datePublished: '2016-01-27T21:20:19.722Z'
 dateModified: '2016-01-27T21:19:55.163Z'
 sourcePath: _posts/2016-01-27-bakerxderek.md
 published: true
