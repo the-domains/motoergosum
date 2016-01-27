@@ -6,7 +6,7 @@ inLanguage: ca
 starred: false
 keywords: []
 description: Moto Ergo Sum (@motoergosum) on Twitter
-datePublished: '2016-01-27T21:39:25.563Z'
+datePublished: '2016-01-27T21:39:25.608Z'
 dateModified: '2016-01-27T21:39:20.295Z'
 author:
   - avatar:
