@@ -1,5 +1,8 @@
+name: MotoErgoSum
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5537634
 title: Southern California Motovlogging
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0.5
-  rhythmicContrast: 1
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#4B4B4B'
-    - '#A3A3A3'
-    - '#6E6E6E'
-  lightness: 0.3853047
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: MotoErgoSum
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5537634
-layout_spectrum: 1
+color:
+  brandColors:
+    - '#d3cfc3'
+    - '#21201c'
+    - '#025378'
+    - '#7096b3'
+    - '#fd0527'
+  brandStrength: 0.5
+  lightness: 0.3853047
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
