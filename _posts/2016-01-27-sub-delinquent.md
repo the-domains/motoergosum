@@ -21,10 +21,10 @@ author:
           - 133
 related: []
 publisher:
-  url: 'http://youtube.com'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'http://youtube.com'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - https
   - www
@@ -51,13 +51,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/user/suburbandelinquent'
 title: SUB. DELINQUENT
-datePublished: '2016-01-27T21:11:16.702Z'
-dateModified: '2016-01-27T21:09:05.795Z'
+datePublished: '2016-01-27T21:20:23.881Z'
+dateModified: '2016-01-27T21:20:01.494Z'
 sourcePath: _posts/2016-01-27-sub-delinquent.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
