@@ -3,7 +3,7 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - teespring
   - bakerx
@@ -16,8 +16,8 @@ keywords:
   - patreon
   - icon
 description: 'SUBSCRIBE And Join Me On My Stupid & Fun Southern California MotoVlog Adventures, CHEAH!'
-datePublished: '2016-01-27T22:03:21.556Z'
-dateModified: '2016-01-27T22:03:19.249Z'
+datePublished: '2016-01-27T23:03:45.878Z'
+dateModified: '2016-01-27T23:03:25.208Z'
 author:
   - name: bakerXderek
     url: 'http://www.youtube.com/user/bakerxderek'
