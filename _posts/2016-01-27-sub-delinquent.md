@@ -16,7 +16,7 @@ keywords:
   - rides
   - arsonrides
 description: "I'm a crazy motorcyclist who enjoys tormenting my friends while showing you the most bizarre and exciting places Southern California has to offer. Join me on my quest!"
-datePublished: '2016-01-27T21:58:16.515Z'
+datePublished: '2016-01-27T21:58:16.485Z'
 dateModified: '2016-01-27T21:58:12.292Z'
 author:
   - name: SUB. DELINQUENT
