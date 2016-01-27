@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8189964
+  brandStrength: 0.8888889
+  lightness: 0.3046595
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#4B4B4B'
+    - '#A3A3A3'
+    - '#6E6E6E'
+  rhythmicContrast: 0.311828
+typography_spectrum: 0.1218638
+name: MotoErgoSum
