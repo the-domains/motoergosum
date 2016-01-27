@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/user/ScottandKerryann'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "Welcome to the Adventures of Scott and... - I am a motovlogger, a race car driver, and a complete knucklehead. You'll find me on the weekends riding my sport bike, supermoto, dual-sport, or race car. I have a girlfriend...and she's into the exact same stuff. I like to record my adventures and share on YouTube!"
-datePublished: '2016-01-27T21:59:19.158Z'
-dateModified: '2016-01-27T21:59:16.549Z'
+datePublished: '2016-01-27T22:03:45.500Z'
+dateModified: '2016-01-27T22:03:42.195Z'
 author:
   - name: The Adventures of Scott and ...
     url: 'http://www.youtube.com/user/scottandkerryann'
@@ -24,6 +23,7 @@ publisher:
   domain: www.youtube.com
   url: 'http://youtube.com'
   favicon: 'https://www.youtube.com/favicon.ico'
+url: the-adventures-of-scott-and-/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
