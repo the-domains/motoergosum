@@ -3,7 +3,7 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - www
   - https
@@ -16,8 +16,8 @@ keywords:
   - how-to
   - brz
 description: 'General motorcycle maintenance, riding, and gear tips. Video blogs are aimed at discussing my current thoughts, plans for trips, projects, and the occasional commentary on current events. If you have any questions or special requests, leave a comment or shoot me a message.'
-datePublished: '2016-01-27T23:07:46.381Z'
-dateModified: '2016-01-27T23:07:41.640Z'
+datePublished: '2016-01-27T23:47:55.015Z'
+dateModified: '2016-01-27T23:47:52.342Z'
 author:
   - name: MotoErgoSum
     url: 'http://www.youtube.com/user/kuhlka'
@@ -61,3 +61,7 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c018ffbc-aaf3-4d05-aae4-cef33653dcbe.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DUUoChd94jlOFId9DknK6ij3Q&amp;url=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fkuhlka&amp;image=https%3A%2F%2Fyt3.ggpht.com%2F-kQg0JX58y60%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FexdUuR99EBM%2Fs900-c-k-no%2Fphoto.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="853" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56da7389-cf4d-4e8a-9089-ce531a1617a2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90a48d98-4281-47da-b1b5-c2934c4baefb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86285df4-1550-4065-8606-ea09a43d8ae1.jpg)
