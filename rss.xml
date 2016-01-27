@@ -4,7 +4,7 @@
         <description><![CDATA[Southern California Motovlogging]]></description>
         <link>https://thegrid.ai/motoergosum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 07:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 07:50:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motoergosum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nearly Crashed on Mulholland Snake]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.youtube.com/watch?v=p6uN7ACaEpM</link>
             <guid isPermaLink="false">e37503cf-18ff-4593-9f1a-5f35de10632d</guid>
             <pubDate>Wed, 27 Jan 2016 07:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b5a6ed8-a53e-484d-8930-596297a86377.jpg">]]></description>
-            <link>https://thegrid.ai/motoergosum/b74afb45-f0be-469f-8e6d-b03ff78ab979/index.html</link>
-            <guid isPermaLink="false">b74afb45-f0be-469f-8e6d-b03ff78ab979</guid>
-            <pubDate>Wed, 27 Jan 2016 07:11:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
