@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/motoergosum'
 inLanguage: ca
 starred: false
 keywords: []
 description: Moto Ergo Sum (@motoergosum) on Twitter
-datePublished: '2016-01-27T21:39:25.608Z'
-dateModified: '2016-01-27T21:39:20.295Z'
+datePublished: '2016-01-27T21:53:17.791Z'
+dateModified: '2016-01-27T21:53:12.409Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/606665586567835648/5rCUIPsS_400x400.jpg'
@@ -22,7 +23,7 @@ author:
           - 243
 related: []
 app_links: []
-title: ''
+title: Moto Ergo Sum
 sourcePath: _posts/2016-01-27-moto-ergo-sum-motoergosum-on-twitter.md
 published: true
 authors: []
@@ -31,7 +32,6 @@ publisher:
   domain: twitter.com
   url: 'https://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-url: moto-ergo-sum-motoergosum-on-twitter/index.html
 _type: Comment
 _context: 'http://schema.org'
 
