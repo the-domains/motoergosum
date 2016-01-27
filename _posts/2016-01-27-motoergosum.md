@@ -45,8 +45,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/user/kuhlka'
 title: MotoErgoSum
-datePublished: '2016-01-27T07:39:30.636Z'
-dateModified: '2016-01-27T07:38:02.566Z'
+datePublished: '2016-01-27T07:40:43.905Z'
+dateModified: '2016-01-27T07:40:27.450Z'
 sourcePath: _posts/2016-01-27-motoergosum.md
 published: true
 inFeed: true
