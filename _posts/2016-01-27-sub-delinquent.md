@@ -3,7 +3,7 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - https
   - www
@@ -16,8 +16,8 @@ keywords:
   - rides
   - arsonrides
 description: "I'm a crazy motorcyclist who enjoys tormenting my friends while showing you the most bizarre and exciting places Southern California has to offer. Join me on my quest!"
-datePublished: '2016-01-27T22:57:06.280Z'
-dateModified: '2016-01-27T22:57:03.814Z'
+datePublished: '2016-01-27T23:04:11.171Z'
+dateModified: '2016-01-27T23:03:27.149Z'
 author:
   - name: SUB. DELINQUENT
     url: 'http://www.youtube.com/user/suburbandelinquent'
