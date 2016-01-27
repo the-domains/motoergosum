@@ -16,24 +16,24 @@ keywords:
   - stickers
   - riding
 description: 'Share your videos with friends, family, and the world'
-datePublished: '2016-01-27T21:20:12.434Z'
-dateModified: '2016-01-27T21:20:08.965Z'
+datePublished: '2016-01-27T21:30:15.620Z'
+dateModified: '2016-01-27T21:30:14.577Z'
 author:
   - avatar: {}
 related: []
 app_links: []
-title: cncycle - YouTube
+title: CNCycle
+sourcePath: _posts/2016-01-27-cncycle-youtube.md
+published: true
 authors: []
 publisher:
   name: Youtube
   domain: www.youtube.com
   url: 'https://www.youtube.com'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-27-cncycle-youtube.md
-published: true
 url: cncycle-youtube/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>cncycle - YouTube</h1><p>Share your videos with friends&amp;comma; family&amp;comma; and the world</p><img src="https://i.ytimg.com/vi/5BJJTxo8fHc/mqdefault.jpg" /></article>
+<article style=""><h1>CNCycle</h1><p>Share your videos with friends, family, and the world</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/098fa0b460200d4ed192a221c2689c300ab62e7d.jpg" /></article>
