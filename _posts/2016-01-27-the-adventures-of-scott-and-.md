@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Welcome to the Adventures of Scott and... - I am a motovlogger, a race car driver, and a complete knucklehead. You'll find me on the weekends riding my sport bike, supermoto, dual-sport, or race car. I have a girlfriend...and she's into the exact same stuff. I like to record my adventures and share on YouTube!"
-datePublished: '2016-01-27T22:03:45.597Z'
-dateModified: '2016-01-27T22:03:42.195Z'
+datePublished: '2016-01-27T22:43:31.881Z'
+dateModified: '2016-01-27T22:43:29.317Z'
 author:
   - name: The Adventures of Scott and ...
     url: 'http://www.youtube.com/user/scottandkerryann'
