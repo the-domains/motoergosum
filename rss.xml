@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Southern California Motovlogging]]></title>
         <description><![CDATA[Southern California Motovlogging]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/motoergosum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 07:15:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 07:46:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/motoergosum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MotoErgoSum]]></title>
+            <description><![CDATA[<article><h1>MotoErgoSum</h1><p>General motorcycle maintenance, riding, and gear tips. Video blogs are aimed at discussing my current thoughts, plans for trips, projects, and the occasional commentary on current events. If you have any questions or special requests, leave a comment or shoot me a message. If you're on social media.</p></article>]]></description>
+            <link>https://www.youtube.com/user/kuhlka</link>
+            <guid isPermaLink="false">58bc6d54-b9a6-475e-b038-d518ab289073</guid>
+            <pubDate>Wed, 27 Jan 2016 07:39:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b5a6ed8-a53e-484d-8930-596297a86377.jpg">]]></description>
-            <link>undefinedb74afb45-f0be-469f-8e6d-b03ff78ab979/index.html</link>
+            <link>https://thegrid.ai/motoergosum/b74afb45-f0be-469f-8e6d-b03ff78ab979/index.html</link>
             <guid isPermaLink="false">b74afb45-f0be-469f-8e6d-b03ff78ab979</guid>
             <pubDate>Wed, 27 Jan 2016 07:11:09 GMT</pubDate>
         </item>
