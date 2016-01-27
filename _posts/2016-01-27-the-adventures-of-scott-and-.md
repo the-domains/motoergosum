@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://youtube.com'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'http://youtube.com'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: "Welcome to the Adventures of Scott and... - I am a motovlogger, a race car driver, and a complete knucklehead. You'll find me on the weekends riding my sport bike, supermoto, dual-sport, or race car. I have a girlfriend...and she's into the exact same stuff. I like to record my adventures and share on YouTube!"
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/user/ScottandKerryann'
 title: The Adventures of Scott and ...
-datePublished: '2016-01-27T21:11:16.920Z'
-dateModified: '2016-01-27T21:08:43.576Z'
+datePublished: '2016-01-27T21:20:26.571Z'
+dateModified: '2016-01-27T21:20:05.005Z'
 sourcePath: _posts/2016-01-27-the-adventures-of-scott-and-.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
