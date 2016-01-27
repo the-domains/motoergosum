@@ -16,8 +16,8 @@ keywords:
   - rides
   - arsonrides
 description: "I'm a crazy motorcyclist who enjoys tormenting my friends while showing you the most bizarre and exciting places Southern California has to offer. Join me on my quest!"
-datePublished: '2016-01-27T21:58:16.499Z'
-dateModified: '2016-01-27T21:58:12.292Z'
+datePublished: '2016-01-27T22:57:06.204Z'
+dateModified: '2016-01-27T22:57:03.814Z'
 author:
   - name: SUB. DELINQUENT
     url: 'http://www.youtube.com/user/suburbandelinquent'
@@ -50,7 +50,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/user/suburbandelinquent?feature=applinks'
     type: web
-title: SUB. DELINQUENT
+title: Sub. Delinquent
 sourcePath: _posts/2016-01-27-sub-delinquent.md
 published: true
 authors: []
