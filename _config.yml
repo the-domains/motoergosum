@@ -31,6 +31,9 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/motoergosum/'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/motoergosum/'
+    type: external
   - name: Twitter
     url: 'https://twitter.com/motoergosum'
     type: external
@@ -39,9 +42,6 @@ navigation:
     type: external
   - name: Flikr
     url: 'https://www.flickr.com/photos/72483840@N00/'
-    type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/motoergosum/'
     type: external
 favicon: null
 collections:
