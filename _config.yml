@@ -31,6 +31,9 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/motoergosum'
     type: external
+  - name: Tumblr
+    url: 'http://motoergosum.tumblr.com/'
+    type: external
 favicon: null
 collections:
   - index:
