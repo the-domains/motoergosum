@@ -28,6 +28,9 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/motoergosum/'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/motoergosum'
+    type: external
 favicon: null
 collections:
   - index:
