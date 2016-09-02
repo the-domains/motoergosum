@@ -33,11 +33,11 @@ navigation:
   - name: MES Branded Clothing
     url: 'https://shop.spreadshirt.com/motoergosum/'
     type: external
-  - name: YouTube
-    url: 'https://www.youtube.com/user/kuhlka'
-    type: external
   - name: Instagram
     url: 'https://www.instagram.com/motoergosum/'
+    type: external
+  - name: YouTube
+    url: 'https://www.youtube.com/user/kuhlka'
     type: external
   - name: Facebook
     url: 'https://www.facebook.com/motoergosum/'
