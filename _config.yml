@@ -48,6 +48,9 @@ navigation:
   - name: Flikr
     url: 'https://www.flickr.com/photos/72483840@N00/'
     type: external
+  - name: MES Branded Clothing
+    url: 'https://shop.spreadshirt.com/motoergosum/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/02e8b1f9-6433-4b48-b22e-77f3b5973b45.png
 collections:
