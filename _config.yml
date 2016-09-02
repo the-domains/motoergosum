@@ -40,6 +40,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/motoergosum/'
     type: external
+  - name: YouTube
+    url: 'https://www.youtube.com/user/kuhlka'
+    type: external
 favicon: null
 collections:
   - index:
